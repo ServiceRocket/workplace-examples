@@ -1,4 +1,4 @@
-# servicerocket-workplace-examples
+# Workplace Examples
 
 Collection of examples using the API of Workplace by Facebook.
 
